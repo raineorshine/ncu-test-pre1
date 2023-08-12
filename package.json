@@ -1,7 +1,7 @@
 {
   "name": "ncu-test-pre1",
   "description": "A package that publishes minor and patch versions before v1",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "author": {
     "name": "Raine Revere",
     "url": "https://github.com/raineorshine"
